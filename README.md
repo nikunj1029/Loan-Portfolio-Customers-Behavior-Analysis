@@ -9,6 +9,9 @@ Developed a multi-page Power BI dashboard integrated with SQL to analyze loan pe
 	•	Making data-driven loan approval decisions
 	•	Balancing revenue growth with risk control
 This project aims to solve these problems using data analysis and business-driven metrics.
+
+
+
 ⸻
 🛠️ SQL Work
 	•	Cleaned and structured raw banking datasets
@@ -19,6 +22,9 @@ This project aims to solve these problems using data analysis and business-drive
 	•	Default analysis
 	•	Used aggregations and filtering to prepare data for reporting
 	•	Ensured data consistency before loading into Power BI
+
+
+	
 ⸻
 📈 Analysis (Power BI)
 	•	Customer segmentation based on risk, income, and EMI ratio
@@ -35,6 +41,8 @@ This project aims to solve these problems using data analysis and business-drive
 	•	Customer Segmentation
 	•	Transaction Behavior
 	•	Performance Insights
+
+	
 ⸻
  Business Solutions
 	•	Enabled early identification of high-risk customers, reducing potential losses
@@ -42,6 +50,8 @@ This project aims to solve these problems using data analysis and business-drive
 	•	Improved decision-making using EMI ratio and income-based evaluation
 	•	Provided visibility into default impact and risk exposure
 	•	Supported revenue optimization by focusing on safe loan segments
+
+	
 ⸻
 ⚙️ Tools & Technologies
 	•	Power BI → Dashboard & Data Visualization
